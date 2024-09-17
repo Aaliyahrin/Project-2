@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.14">
   <diagram name="Page-1" id="23ngDrGxdUW1RpdoH_Q1">
-    <mxGraphModel dx="1651" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2116" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="k5glgSISUIPBJTqvHwu8-5" value="&lt;h1&gt;&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;K-Dramas&lt;/font&gt;&lt;/h1&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="-566" y="272.78" width="175" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="k5glgSISUIPBJTqvHwu8-36" value="&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Contact Information&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="k5glgSISUIPBJTqvHwu8-36" value="&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;Contact Information&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="175" height="50" as="geometry" />
         </mxCell>
         <mxCell id="k5glgSISUIPBJTqvHwu8-38" value="" style="line;strokeWidth=4;html=1;" vertex="1" parent="1">
@@ -162,6 +162,12 @@
         </mxCell>
         <mxCell id="k5glgSISUIPBJTqvHwu8-94" value="&lt;font size=&quot;3&quot;&gt;Live Video Events&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="401.5" y="515.08" width="175" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="k5glgSISUIPBJTqvHwu8-95" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="674" y="430" width="10" height="67.22" as="geometry" />
+        </mxCell>
+        <mxCell id="k5glgSISUIPBJTqvHwu8-96" value="&lt;font size=&quot;3&quot; face=&quot;Verdana&quot;&gt;FAQ&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=4;aspect=fixed;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="600" y="487.22" width="175" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
